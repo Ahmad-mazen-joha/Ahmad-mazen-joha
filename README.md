@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmad-mazen-joha
+- 👋 Hi, I’m Ahmad mazen joha
 - 👀 I’m interested in Front-end web development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me ? it's easy,my email is ahmadmazenj@gmail.com you are welcome :)
