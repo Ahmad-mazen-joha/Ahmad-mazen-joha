@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad mazen joha
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React Router
 - 📫 How to reach me ? it's easy,my email is ahmadmazenj@gmail.com you are welcome :)
 
 <!---
